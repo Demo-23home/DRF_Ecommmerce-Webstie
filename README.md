@@ -8,8 +8,8 @@ This is a Django REST Framework-based e-commerce website project.
 
 This project serves as an e-commerce website with a RESTful API for managing products, categories, users, and orders. The website offers the following features:
 
-- Feature 1: Describe the first feature.
-- Feature 2: Describe the second feature.
+- Feature 1: Create Products, Categories, Brands.
+- Feature 2: Testing the Models, API endpoints.
 - ...
 
 ## Getting Started
