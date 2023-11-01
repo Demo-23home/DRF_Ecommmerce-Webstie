@@ -22,6 +22,8 @@ from product.views import *
 
 router =DefaultRouter()
 router.register(r"category",CategoryView)
+router.register(r"Brand",BrandView)
+router.register(r"product",ProductView)
 
 
 urlpatterns = [
